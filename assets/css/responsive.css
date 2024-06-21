@@ -1,0 +1,49 @@
+
+@media (max-width:767px){
+	.header{
+		padding: 10px;
+	}
+	.icon_btn {
+		width: 100%;
+	}
+	.line2 {
+		top: 97px;
+		left: 15%;
+	}
+	.lines1 {
+		left: 45%;
+	}
+	.lines2 {
+		left: 20%;
+	}
+	.lines3 {
+		right: 22%;
+	}
+	.result_final3{
+		order: 3;
+		margin: auto;
+	}
+	.game_start {
+		margin: 45px auto;
+		flex-wrap: wrap;
+	}
+	.icon_btns {
+		width: 100%;
+	}
+	.pulse::before {
+		width: 100%;
+	}
+	.pulse::after {
+		width: 100%;
+	}
+	h5{
+		font-size: 1.1rem;
+	}
+.rules {
+	margin: auto;
+}
+}
+@media(min-width:767px) and (max-width:992px){
+	
+}
+
